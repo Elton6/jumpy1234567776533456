@@ -1,5 +1,5 @@
 //% color="#4ba660" icon="\uF118"
-namespace hello {
+namespace jumpy {
     //% block
     export function playJumpy() {
         let player2: Sprite = null
